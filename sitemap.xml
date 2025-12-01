@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nygma.pro/posts/firstpost/</loc>
+    <lastmod>2025-12-02T00:37:51+03:00</lastmod>
+  </url><url>
     <loc>https://nygma.pro/posts/</loc>
-    <lastmod>2025-12-01T15:14:17+03:00</lastmod>
+    <lastmod>2025-12-02T00:37:51+03:00</lastmod>
   </url><url>
     <loc>https://nygma.pro/</loc>
-    <lastmod>2025-12-01T15:14:17+03:00</lastmod>
+    <lastmod>2025-12-02T00:37:51+03:00</lastmod>
   </url><url>
     <loc>https://nygma.pro/posts/trial/</loc>
   </url><url>
